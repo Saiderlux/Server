@@ -1,0 +1,17 @@
+{
+	id: "0b616b35-0403-3c2e-8bd0-16aaaeb717af"
+	type: "player"
+	player_name: "kumcoca"
+	ranks: {
+		0b616b35-0403-3c2e-8bd0-16aaaeb717af: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kumcoca"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

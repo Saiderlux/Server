@@ -1,0 +1,17 @@
+{
+	id: "189dc02f-8e34-3ccc-b86a-73d69c37b540"
+	type: "player"
+	player_name: "Psydeer"
+	ranks: {
+		189dc02f-8e34-3ccc-b86a-73d69c37b540: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Psydeer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5999FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

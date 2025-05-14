@@ -82,7 +82,7 @@
 			}]
 			subtitle: "Flies 40 percent faster than other dragons. Found in underground &9dungeon chests."
 			tasks: [{
-				id: "08F4917D817AAAB4"
+				id: "7002CDC0A051F3F5"
 				item: {
 					Count: 1
 					id: "dragonmounts:dragon_egg"
@@ -93,6 +93,7 @@
 						}
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
 			title: "Obtain an &f&lAether Dragon Egg"
@@ -109,7 +110,7 @@
 			}]
 			subtitle: "Has the special trait of having more health than other dragons. Obtainable by defeating the &8&lEnder Dragon&r."
 			tasks: [{
-				id: "04986C20F0FEC7EC"
+				id: "7417413C9F99AC12"
 				item: {
 					Count: 1
 					id: "dragonmounts:dragon_egg"
@@ -120,6 +121,7 @@
 						}
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
 			title: "Obtain an &8End Dragon Egg"
@@ -136,7 +138,7 @@
 			}]
 			subtitle: "This dragon has the special trait of being resistant to fire and creating fire on nearby flammable blocks. Has a chance of spawning in &6Desert Pyramids&r."
 			tasks: [{
-				id: "5C1F4DBF22108D60"
+				id: "44CF69BC139C43C2"
 				item: {
 					Count: 1
 					id: "dragonmounts:dragon_egg"
@@ -147,6 +149,7 @@
 						}
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
 			title: "Obtain a &4Fire Dragon Egg"
@@ -163,7 +166,7 @@
 			}]
 			subtitle: "Creates the bonemeal effect on surrounding plants and grass as it walks. Can be found in &2Jungle Temples."
 			tasks: [{
-				id: "4CC15F6C8D646B66"
+				id: "156C28206C2DCB1D"
 				item: {
 					Count: 1
 					id: "dragonmounts:dragon_egg"
@@ -174,6 +177,7 @@
 						}
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
 			title: "Obtain a &aForest Dragon Egg"
@@ -190,7 +194,7 @@
 			}]
 			subtitle: "Withers nearby plants and blocks as it walks. Found in &4Abandoned Mineshafts&r and &6Woodland Mansions&r.  "
 			tasks: [{
-				id: "67316176F6119ECE"
+				id: "6571AF068371ED30"
 				item: {
 					Count: 1
 					id: "dragonmounts:dragon_egg"
@@ -201,6 +205,7 @@
 						}
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
 			title: "Obtain a &fGhost Dragon Egg"
@@ -217,7 +222,7 @@
 			}]
 			subtitle: "Creates frosted ice in its path and leaves a trail of snow in cold biomes. Found in &fIgloo chests&r."
 			tasks: [{
-				id: "7FD6D3FD071E6CC6"
+				id: "46BAF19A130D36F0"
 				item: {
 					Count: 1
 					id: "dragonmounts:dragon_egg"
@@ -228,6 +233,7 @@
 						}
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
 			title: "Obtain an &f&lIce Dragon Egg"
@@ -235,6 +241,16 @@
 			y: 0.0d
 		}
 		{
+			icon: {
+				Count: 1
+				id: "dragonmounts:dragon_egg"
+				tag: {
+					BlockEntityTag: {
+						Breed: "dragonmounts:nether"
+						id: "dragonmounts:dragon_egg"
+					}
+				}
+			}
 			id: "338B4253B640715C"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -244,7 +260,7 @@
 			}]
 			subtitle: "This dragon has more armor than other dragons, meaning it will take less damage per hit. Has a chance of spawning in &4Bastion Treasure&r."
 			tasks: [{
-				id: "1062DC4D8249A991"
+				id: "70D97F68ED0BA17B"
 				item: {
 					Count: 1
 					id: "dragonmounts:dragon_egg"
@@ -255,6 +271,7 @@
 						}
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
 			title: "Obtain a &6Nether Dragon Egg"
@@ -271,7 +288,7 @@
 			}]
 			subtitle: "Hydrates farmland, soaks sponges, extinguishes fires, and transforms blocks like magma blocks and copper as it walks. Found in &1Buried Treasure&r."
 			tasks: [{
-				id: "35C36539F5A2AC15"
+				id: "3EFB164B7071CCB8"
 				item: {
 					Count: 1
 					id: "dragonmounts:dragon_egg"
@@ -282,6 +299,7 @@
 						}
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
 			title: "Obtain a &bWater Dragon Egg"

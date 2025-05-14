@@ -334,9 +334,6 @@
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
 
-	[management.hotbar_changer]
-		"Animation Time" = 7.0
-
 [tools]
 	Trowel = true
 	"Slime In A Bucket" = true

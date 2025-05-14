@@ -69,7 +69,7 @@
 		respect_hide_particles = true
 		#Maximum amount of status effects rendered in a single column.
 		#Range: 1 ~ 255
-		max_rows = 100
+		max_rows = 255
 		#Allow effect renderer to fall back to a more compact version (when available) if not enough screen space exists. Otherwise effect widgets might run off-screen.
 		allow_fallback = true
 		#Screen side to render status effects on.

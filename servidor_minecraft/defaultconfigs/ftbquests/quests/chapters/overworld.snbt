@@ -250,7 +250,7 @@
 				type: "xp_levels"
 				xp_levels: 10
 			}]
-			subtitle: "Spawns randomly underground in boss rooms."
+			subtitle: "Spawns randomly underground in boss rooms"
 			tasks: [{
 				entity: "mowziesmobs:ferrous_wroughtnaut"
 				icon: "mowziesmobs:wrought_helmet"
@@ -270,7 +270,7 @@
 				item: "friendsandfoes:totem_of_freezing"
 				type: "item"
 			}]
-			subtitle: "Found in &fsnowy&r biomes."
+			subtitle: "Found in &fsnowy&r biomes"
 			tasks: [{
 				entity: "mowziesmobs:frostmaw"
 				icon: {

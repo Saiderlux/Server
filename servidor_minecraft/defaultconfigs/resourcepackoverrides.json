@@ -18,7 +18,11 @@
     "file/Better_Modded_GUI.zip",
     "file/NoBushyLeaves.zip",
     "file/Stay Clear [1.20].zip",
-    "file/Beautiful Enchanted Books - MC 1.20.X - 5.0.0.zip"
+    "builtin/overrides/deep_aether_emissivity",
+    "file/Beautiful Enchanted Books - MC 1.20.X - 6.0.0.zip",
+    "netherexp:jne_emissive",
+    "file/Armor Trims Compat 1.1.zip",
+    "file/Enchantment Descriptions Compat 1.1.zip"
 
   ],
   "default_overrides": {

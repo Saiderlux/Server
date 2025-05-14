@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "0b616b3504033c2e8bd016aaaeb717af"
+	name: "kumcoca#0b616b35"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1747187155599L
+		2574E7CF699D5B45: 1747187155599L
+		0470194500CBE26C: 1747187155599L
+		0000000000000001: 1747187155599L
+	}
+	completed: {
+		2574E7CF699D5B45: 1747187155603L
+		0470194500CBE26C: 1747187155603L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
